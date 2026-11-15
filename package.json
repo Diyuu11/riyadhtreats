@@ -1,0 +1,13 @@
+{
+  "name": "coffee-website-code",
+  "version": "1.0.0",
+  "description": "Open `index.html` in a browser (or use the VS Code \"Live Server\" extension).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
